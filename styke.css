@@ -41,9 +41,8 @@ main{
     gap: 30px;
 }
 div{
-    background-color: aliceblue;
     display: flex;
-    justify-content: flex-end;
+    justify-content: center;
     gap: 14px;
     position: relative;
 }
